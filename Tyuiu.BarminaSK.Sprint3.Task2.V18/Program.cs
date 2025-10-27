@@ -11,7 +11,7 @@ namespace Tyuiu.BarminaSK.Sprint3.Task2.V18
             Console.Title = "Спринт #3 | Выполнила: Бармина С.К. | ПИНб-25-1";
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* Спринт #3                                                               *");
-            Console.WriteLine("* Тема: Оператор цикла do-while                                           *");
+            Console.WriteLine("* Тема:  Оператор цикла do-while                                           *");
             Console.WriteLine("* Задание #2                                                              *");
             Console.WriteLine("* Вариант #18                                                             *");
             Console.WriteLine("* Выполнила: Бармина София Константиновна | ПИНб-25-1                     *");
