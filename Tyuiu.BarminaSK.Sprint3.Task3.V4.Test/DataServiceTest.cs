@@ -14,6 +14,7 @@ namespace Tyuiu.BarminaSK.Sprint3.Task3.V4.Test
             string res = ds.DeleteCharInString(value, item);
             string wait = "plkidw cylkl";
             Assert.AreEqual(wait, res);
+
         }
     }
 }
