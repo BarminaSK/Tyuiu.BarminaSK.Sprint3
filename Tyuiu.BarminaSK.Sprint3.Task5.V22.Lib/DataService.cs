@@ -12,7 +12,7 @@ namespace Tyuiu.BarminaSK.Sprint3.Task5.V22.Lib
             {
                 for (int k = startValue2; k <= stopValue2; k++)
                 {
-                    // +2 ВНУТРИ суммы, а не после!
+
                     double term = Math.Pow(x, 3) * Math.Sin(k) + 2;
                     totalSum += term;
                 }
